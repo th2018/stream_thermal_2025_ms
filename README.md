@@ -1,2 +1,2 @@
 
-Clustering: Clustering watersheds with similar characteristics
+clustering: Clustering watersheds with similar characteristics
